@@ -1,6 +1,6 @@
 # newbie_tutorials
 Step-by-Step Guide: 14 Python Tutorials for Beginners
--Each tutorial folder has a .pdf and .ipynb file to follow for training.
+- Each tutorial folder has a .pdf and .ipynb file to follow for training.
 
 ## Step 1: What is Python?
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields, including:
