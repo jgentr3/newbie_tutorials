@@ -1,6 +1,19 @@
 # newbie_tutorials
 Step-by-Step Guide: 14 Python Tutorials for Beginners
 
+## Step 1: What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields, including:
+- Web development
+- Data analysis and visualization
+- Machine learning and artificial intelligence
+- Automation and scripting
+- Game development
+
+## Step 2: Setting Up Google Colab
+Google Colab is a free cloud-based Jupyter notebook environment that allows you to write and execute Python code in your browser. Here’s how to get started:
+1. **Open Google Colab**: Go to [Google Colab](https://colab.research.google.com/).
+2. **Create a New Notebook**: Click on "File" > "New Notebook" to create a new Python notebook.
+
 ## Tutorial 1: Introduction to Python
 - **Overview**: What is Python? Installation and setup.
 - **Hands-On**: Write your first Python program ("Hello, World!") in Google Colab.
